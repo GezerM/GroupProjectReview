@@ -5,4 +5,8 @@ public class FirstClass {
 
     //3rd changes
 
+    public static void main(String[] args) {
+        System.out.println("Hello again");
+    }
+
 }
